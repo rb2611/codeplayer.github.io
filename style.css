@@ -27,7 +27,7 @@ body {
 }
 #buttons {
 
-	width:233px;
+	width:250px;
 	margin: 0 auto;
 
 }
@@ -59,13 +59,13 @@ body {
 
 .active {
 	
-	background-color: grey;
+	background-color: red;
 	
 }
 
 .highlightedButton {
 	
-	background-color: grey;
+	background-color: white;
 	
 }
 
